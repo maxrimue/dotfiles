@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Cobalt2",
+    "editor.cursorBlinking": "solid",
+    "editor.autoClosingBrackets": false,
+    "editor.cursorStyle": "block",
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "flow.enabled": true,
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh"
+}

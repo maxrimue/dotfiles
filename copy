@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cp ~/.vimrc .
+cp ~/.hyper.js .
+cp ~/.zshrc .
+cp ~/Library/Application\ Support/Code/User/settings.json .
